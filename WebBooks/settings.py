@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'cg$p$g+j9tax!#a3cup81$obt2_+Sk
 #DEBUG = True
 DEBUG = bool(os.environ.get('DJANGO_DEBUG', True))
 
-ALLOWED_HOSTS = ['#']
+ALLOWED_HOSTS = ['my-world-book20012022.herokuapp.com']
 
 
 # Application definition
